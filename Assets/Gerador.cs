@@ -19,6 +19,7 @@ public class Gerador : MonoBehaviour
         if(collision.gameObject.tag == "interacao" && FindObjectOfType<GameManager>().possuiGasolina == true){
             anim.enabled = true;
             GeradorAtivado = true;
+            FindObjectOfType<GameManager>().possuiGasolina = false;
         }
     }
 

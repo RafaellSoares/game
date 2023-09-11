@@ -14,6 +14,7 @@ public class bloqueioPorta : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D collision){
         if(collision.gameObject.tag == "interacao" && FindObjectOfType<GameManager>().possuiChave == true){
             FindObjectOfType<PortaMadeira>().AtivaPorta = true;
+            FindObjectOfType<GameManager>().possuiChave = false;
         }
     }
     // Update is called once per frame
