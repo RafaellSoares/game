@@ -23,6 +23,7 @@ public class Player : MonoBehaviour
 
     void Start(){
         // _playerRigidBody2D  = GetComponent<Rigidbody2D>();
+        speed = 0;
     }
     // Update is called once per frame
     void Update()
@@ -55,6 +56,7 @@ public class Player : MonoBehaviour
         if(Input.GetMouseButtonDown(0) && speed == 5 ){
             Atirar();
         }
+        
     }
     // void FixesUpdate(){
     //     _playerRigidBody2D.MovePosition(_playerRigidBody2D.position + _playerDirection * _playerSpeed * Time.fixedDeltaTime);
