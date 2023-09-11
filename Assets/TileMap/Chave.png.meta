@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b0f3c1a71c1f0e34a8cb5f8612533925
+guid: 1fc8b51be3a835e4e816b9aeb29c70d7
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -110,85 +110,22 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Gerador Funcionando_1
+      name: Chave_0
       rect:
         serializedVersion: 2
-        x: 48
-        y: 53
-        width: 46
-        height: 43
+        x: 1
+        y: 10
+        width: 29
+        height: 12
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 241c16cd57563a146a6de8f6f297a56a
-      internalID: 389014062
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Gerador Funcionando_2
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 53
-        width: 46
-        height: 43
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e691810770235c74f89fd9f30b77d9f9
-      internalID: 651995290
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Gerador Funcionando_3
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 5
-        width: 46
-        height: 43
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3f4bb188eebab4a46946ebc31c949351
-      internalID: -1699718634
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Gerador Funcionando_4
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 5
-        width: 46
-        height: 43
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d4061b3f1a35bf043983cecffd9933f4
-      internalID: 1396953632
+      spriteID: cf10af2c27c7f074d9bf10a7eb09f107
+      internalID: 1418065345
       vertices: []
       indices: 
       edges: []
@@ -204,11 +141,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Gerador Funcionando_0: -1285421439
-      Gerador Funcionando_1: 389014062
-      Gerador Funcionando_2: 651995290
-      Gerador Funcionando_3: -1699718634
-      Gerador Funcionando_4: 1396953632
+      Chave_0: 1418065345
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

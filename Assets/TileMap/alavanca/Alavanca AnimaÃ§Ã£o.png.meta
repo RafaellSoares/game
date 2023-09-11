@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b0f3c1a71c1f0e34a8cb5f8612533925
+guid: 938275463bdcbde418a96024f18da831
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -110,85 +110,169 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Gerador Funcionando_1
+      name: "Alavanca Anima\xC3\xA7\xC3\xA3o_0"
       rect:
         serializedVersion: 2
-        x: 48
-        y: 53
-        width: 46
-        height: 43
+        x: 5
+        y: 73
+        width: 21
+        height: 15
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 241c16cd57563a146a6de8f6f297a56a
-      internalID: 389014062
+      spriteID: 0a2e010d8d2b2be4e899f362da8adc6e
+      internalID: 560074675
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gerador Funcionando_2
+      name: "Alavanca Anima\xC3\xA7\xC3\xA3o_1"
       rect:
         serializedVersion: 2
-        x: 0
-        y: 53
-        width: 46
-        height: 43
+        x: 37
+        y: 73
+        width: 21
+        height: 14
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e691810770235c74f89fd9f30b77d9f9
-      internalID: 651995290
+      spriteID: 878f756e0c3ff4f4b8a805b7da16c547
+      internalID: 1649446650
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gerador Funcionando_3
+      name: "Alavanca Anima\xC3\xA7\xC3\xA3o_2"
       rect:
         serializedVersion: 2
-        x: 0
-        y: 5
-        width: 46
-        height: 43
+        x: 69
+        y: 73
+        width: 21
+        height: 13
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3f4bb188eebab4a46946ebc31c949351
-      internalID: -1699718634
+      spriteID: 4f2b2c3e862d8a44ebc1edf7aef1c466
+      internalID: 1463922512
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gerador Funcionando_4
+      name: "Alavanca Anima\xC3\xA7\xC3\xA3o_3"
       rect:
         serializedVersion: 2
-        x: 48
-        y: 5
-        width: 46
-        height: 43
+        x: 5
+        y: 41
+        width: 21
+        height: 13
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d4061b3f1a35bf043983cecffd9933f4
-      internalID: 1396953632
+      spriteID: 4b6e55fec540fb748922f2b394ea0ca1
+      internalID: 1504741833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Alavanca Anima\xC3\xA7\xC3\xA3o_4"
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 41
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d2038da6c480540b341ff236993d0c
+      internalID: -1505838858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Alavanca Anima\xC3\xA7\xC3\xA3o_5"
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 41
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349224fafb4740c428548b9b4cccb760
+      internalID: -1865648010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Alavanca Anima\xC3\xA7\xC3\xA3o_6"
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 9
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991363a34e0b2204f90886a6fbc70767
+      internalID: 1118642229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Alavanca Anima\xC3\xA7\xC3\xA3o_7"
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 9
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fa43ec88d9790488d0fe66c4c00bb0
+      internalID: -1352807844
       vertices: []
       indices: 
       edges: []
@@ -204,11 +288,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Gerador Funcionando_0: -1285421439
-      Gerador Funcionando_1: 389014062
-      Gerador Funcionando_2: 651995290
-      Gerador Funcionando_3: -1699718634
-      Gerador Funcionando_4: 1396953632
+      "Alavanca Anima\xC3\xA7\xC3\xA3o_0": 560074675
+      "Alavanca Anima\xC3\xA7\xC3\xA3o_1": 1649446650
+      "Alavanca Anima\xC3\xA7\xC3\xA3o_2": 1463922512
+      "Alavanca Anima\xC3\xA7\xC3\xA3o_3": 1504741833
+      "Alavanca Anima\xC3\xA7\xC3\xA3o_4": -1505838858
+      "Alavanca Anima\xC3\xA7\xC3\xA3o_5": -1865648010
+      "Alavanca Anima\xC3\xA7\xC3\xA3o_6": 1118642229
+      "Alavanca Anima\xC3\xA7\xC3\xA3o_7": -1352807844
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

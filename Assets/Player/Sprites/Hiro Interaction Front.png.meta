@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b0f3c1a71c1f0e34a8cb5f8612533925
+guid: a9f68e27982c2a54fba98a55ac7623d3
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -110,85 +110,148 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Gerador Funcionando_1
+      name: Hiro Interaction Front_0
       rect:
         serializedVersion: 2
-        x: 48
-        y: 53
-        width: 46
-        height: 43
+        x: 351
+        y: 2206
+        width: 322
+        height: 771
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 241c16cd57563a146a6de8f6f297a56a
-      internalID: 389014062
+      spriteID: 979f7c38e0cd3be49982de84ddfef884
+      internalID: 1902861539
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gerador Funcionando_2
+      name: Hiro Interaction Front_1
       rect:
         serializedVersion: 2
-        x: 0
-        y: 53
-        width: 46
-        height: 43
+        x: 1375
+        y: 2206
+        width: 321
+        height: 771
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e691810770235c74f89fd9f30b77d9f9
-      internalID: 651995290
+      spriteID: 52f0cc0a1673f564d9a1ff795daff470
+      internalID: 256392876
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gerador Funcionando_3
+      name: Hiro Interaction Front_2
       rect:
         serializedVersion: 2
-        x: 0
-        y: 5
-        width: 46
-        height: 43
+        x: 2398
+        y: 2206
+        width: 323
+        height: 771
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3f4bb188eebab4a46946ebc31c949351
-      internalID: -1699718634
+      spriteID: 98a0f1f6cb8e7f84c9b45eaaca1c1a10
+      internalID: -1321264071
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gerador Funcionando_4
+      name: Hiro Interaction Front_3
       rect:
         serializedVersion: 2
-        x: 48
-        y: 5
-        width: 46
-        height: 43
+        x: 351
+        y: 1183
+        width: 322
+        height: 738
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d4061b3f1a35bf043983cecffd9933f4
-      internalID: 1396953632
+      spriteID: 102ee654b671a834fa560bd4acd433b3
+      internalID: 1917259591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiro Interaction Front_4
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1183
+        width: 321
+        height: 770
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3a49fca42f9fd4d9602c35e5923fd3
+      internalID: 1674307265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiro Interaction Front_5
+      rect:
+        serializedVersion: 2
+        x: 2398
+        y: 1183
+        width: 323
+        height: 770
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9358a287338a26f41b30db71c6ff7538
+      internalID: 1066369231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiro Interaction Front_6
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 159
+        width: 322
+        height: 769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8115420daa0709f47a780f01bfde3851
+      internalID: 419938578
       vertices: []
       indices: 
       edges: []
@@ -204,11 +267,13 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Gerador Funcionando_0: -1285421439
-      Gerador Funcionando_1: 389014062
-      Gerador Funcionando_2: 651995290
-      Gerador Funcionando_3: -1699718634
-      Gerador Funcionando_4: 1396953632
+      Hiro Interaction Front_0: 1902861539
+      Hiro Interaction Front_1: 256392876
+      Hiro Interaction Front_2: -1321264071
+      Hiro Interaction Front_3: 1917259591
+      Hiro Interaction Front_4: 1674307265
+      Hiro Interaction Front_5: 1066369231
+      Hiro Interaction Front_6: 419938578
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

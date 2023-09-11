@@ -13,7 +13,7 @@ public class Player : MonoBehaviour
     public Transform armaAndando;
     public GameObject projetilPrefab;
     public float velocidadeProjetil;
-
+    public bool interagindo;
     public Animator anim;
     public float speed;
 
@@ -34,6 +34,12 @@ public class Player : MonoBehaviour
         anim.SetFloat("Vertical", movement.y);
         anim.SetFloat("Speed", movement.magnitude);
 
+        if(Input.GetKeyDown(KeyCode.Space)){
+            anim.SetBool("interagindo", true);
+            speed = 0;
+            Invoke("ParaInteracao", 1f);
+        }
+
         transform.position = transform.position + movement * speed * Time.deltaTime;
         if (dano == true)
         {
@@ -46,14 +52,17 @@ public class Player : MonoBehaviour
         }
 
 
-        if(Input.GetMouseButtonDown(0)){
+        if(Input.GetMouseButtonDown(0) && speed == 5 ){
             Atirar();
         }
     }
     // void FixesUpdate(){
     //     _playerRigidBody2D.MovePosition(_playerRigidBody2D.position + _playerDirection * _playerSpeed * Time.fixedDeltaTime);
     // }
-
+    void ParaInteracao(){
+        anim.SetBool("interagindo", false);
+        speed = 5;
+    }
     void Atirar(){
         if(Input.GetMouseButtonDown(0)){
 
